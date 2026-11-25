@@ -1,4 +1,5 @@
-samples('github:CatoPaus/strudel-projects/main/songs/stranger-things-main-title')
+await samples('github:tidalcycles/dirt-samples')
+await samples('github:CatoPaus/strudel-projects/main/songs/stranger-things-main-title')
 
 // Stranger Things — Main Title Theme (24-Bar Studio Analog Arc)
 // 84 BPM | Key: E minor (Cmaj7 <-> Cmaj7/E pedal-point tension)
