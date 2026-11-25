@@ -1,0 +1,30 @@
+{
+  "_base": "github:CatoPaus/strudel-projects/main/samples/",
+  "se1_08": {
+    "C1": "waivops-se1/syn_se1_preset_08_01_C1.wav",
+    "Cs1": "waivops-se1/syn_se1_preset_08_02_C%231.wav",
+    "D1": "waivops-se1/syn_se1_preset_08_03_D1.wav",
+    "Ds1": "waivops-se1/syn_se1_preset_08_04_D%231.wav",
+    "E1": "waivops-se1/syn_se1_preset_08_05_E1.wav",
+    "F1": "waivops-se1/syn_se1_preset_08_06_F1.wav",
+    "Fs1": "waivops-se1/syn_se1_preset_08_07_F%231.wav",
+    "G1": "waivops-se1/syn_se1_preset_08_08_G1.wav",
+    "Gs1": "waivops-se1/syn_se1_preset_08_09_G%231.wav",
+    "A1": "waivops-se1/syn_se1_preset_08_10_A1.wav",
+    "As1": "waivops-se1/syn_se1_preset_08_11_A%231.wav",
+    "B1": "waivops-se1/syn_se1_preset_08_12_B1.wav",
+    "C2": "waivops-se1/syn_se1_preset_08_13_C2.wav",
+    "Cs2": "waivops-se1/syn_se1_preset_08_14_C%232.wav",
+    "D2": "waivops-se1/syn_se1_preset_08_15_D2.wav",
+    "Ds2": "waivops-se1/syn_se1_preset_08_16_D%232.wav",
+    "E2": "waivops-se1/syn_se1_preset_08_17_E2.wav",
+    "F2": "waivops-se1/syn_se1_preset_08_18_F2.wav",
+    "Fs2": "waivops-se1/syn_se1_preset_08_19_F%232.wav",
+    "G2": "waivops-se1/syn_se1_preset_08_20_G2.wav",
+    "Gs2": "waivops-se1/syn_se1_preset_08_21_G%232.wav",
+    "A2": "waivops-se1/syn_se1_preset_08_22_A2.wav",
+    "As2": "waivops-se1/syn_se1_preset_08_23_A%232.wav",
+    "B2": "waivops-se1/syn_se1_preset_08_24_B2.wav",
+    "C3": "waivops-se1/syn_se1_preset_08_25_C3.wav"
+  }
+}
