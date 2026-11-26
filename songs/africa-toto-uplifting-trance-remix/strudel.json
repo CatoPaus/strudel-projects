@@ -1,0 +1,87 @@
+{
+  "_base": "github:CatoPaus/strudel-projects/main/samples/",
+  "mrt2_analog_brass": {
+    "C2": "mrt2-studio/mrt2_analog_brass/C2.wav",
+    "G2": "mrt2-studio/mrt2_analog_brass/G2.wav",
+    "C3": "mrt2-studio/mrt2_analog_brass/C3.wav",
+    "G3": "mrt2-studio/mrt2_analog_brass/G3.wav",
+    "C4": "mrt2-studio/mrt2_analog_brass/C4.wav"
+  },
+  "mrt2_emulator_choir": {
+    "C3": "mrt2-studio/mrt2_emulator_choir/C3.wav",
+    "G3": "mrt2-studio/mrt2_emulator_choir/G3.wav",
+    "C4": "mrt2-studio/mrt2_emulator_choir/C4.wav",
+    "G4": "mrt2-studio/mrt2_emulator_choir/G4.wav",
+    "C5": "mrt2-studio/mrt2_emulator_choir/C5.wav"
+  },
+  "mrt2_solina_strings": {
+    "C3": "mrt2-studio/mrt2_solina_strings/C3.wav",
+    "G3": "mrt2-studio/mrt2_solina_strings/G3.wav",
+    "C4": "mrt2-studio/mrt2_solina_strings/C4.wav",
+    "G4": "mrt2-studio/mrt2_solina_strings/G4.wav",
+    "C5": "mrt2-studio/mrt2_solina_strings/C5.wav"
+  },
+  "sal_cr": [
+    "salamander-drumkit/sal_cr/crash1_medium_18_ff.wav",
+    "salamander-drumkit/sal_cr/crash1_medium_18_p.wav",
+    "salamander-drumkit/sal_cr/crash1_choked_f.wav",
+    "salamander-drumkit/sal_cr/crash2_thin_20_ff.wav",
+    "salamander-drumkit/sal_cr/crash2_thin_20_p.wav",
+    "salamander-drumkit/sal_cr/crash3_stagg_16_ff.wav",
+    "salamander-drumkit/sal_cr/splash_8in_bright_f.wav",
+    "salamander-drumkit/sal_cr/china1_20in_trashy_ff.wav",
+    "salamander-drumkit/sal_cr/china2_18in_sharp_ff.wav"
+  ],
+  "se1_18": {
+    "C2": "waivops-se1/syn_se1_preset_18_01_C2.wav",
+    "Cs2": "waivops-se1/syn_se1_preset_18_02_C%232.wav",
+    "D2": "waivops-se1/syn_se1_preset_18_03_D2.wav",
+    "Ds2": "waivops-se1/syn_se1_preset_18_04_D%232.wav",
+    "E2": "waivops-se1/syn_se1_preset_18_05_E2.wav",
+    "F2": "waivops-se1/syn_se1_preset_18_06_F2.wav",
+    "Fs2": "waivops-se1/syn_se1_preset_18_07_F%232.wav",
+    "G2": "waivops-se1/syn_se1_preset_18_08_G2.wav",
+    "Gs2": "waivops-se1/syn_se1_preset_18_09_G%232.wav",
+    "A2": "waivops-se1/syn_se1_preset_18_10_A2.wav",
+    "As2": "waivops-se1/syn_se1_preset_18_11_A%232.wav",
+    "B2": "waivops-se1/syn_se1_preset_18_12_B2.wav",
+    "C3": "waivops-se1/syn_se1_preset_18_13_C3.wav",
+    "Cs3": "waivops-se1/syn_se1_preset_18_14_C%233.wav",
+    "D3": "waivops-se1/syn_se1_preset_18_15_D3.wav",
+    "Ds3": "waivops-se1/syn_se1_preset_18_16_D%233.wav",
+    "E3": "waivops-se1/syn_se1_preset_18_17_E3.wav",
+    "F3": "waivops-se1/syn_se1_preset_18_18_F3.wav",
+    "Fs3": "waivops-se1/syn_se1_preset_18_19_F%233.wav",
+    "G3": "waivops-se1/syn_se1_preset_18_20_G3.wav",
+    "Gs3": "waivops-se1/syn_se1_preset_18_21_G%233.wav",
+    "A3": "waivops-se1/syn_se1_preset_18_22_A3.wav",
+    "As3": "waivops-se1/syn_se1_preset_18_23_A%233.wav",
+    "B3": "waivops-se1/syn_se1_preset_18_24_B3.wav",
+    "C4": "waivops-se1/syn_se1_preset_18_25_C4.wav"
+  },
+  "vsco_claves": [
+    "vsco2-ce/vsco_claves/claves_hard.wav",
+    "vsco2-ce/vsco_claves/claves_medium.wav",
+    "vsco2-ce/vsco_claves/claves_soft.wav"
+  ],
+  "vsco_conga": [
+    "vsco2-ce/vsco_conga/quinto_open_hi.wav",
+    "vsco2-ce/vsco_conga/quinto_tap_hi.wav",
+    "vsco2-ce/vsco_conga/conga_open_mid.wav",
+    "vsco2-ce/vsco_conga/conga_tap_mid.wav",
+    "vsco2-ce/vsco_conga/tumba_open_low.wav",
+    "vsco2-ce/vsco_conga/tumba_tap_low.wav"
+  ],
+  "vsco_marimba": {
+    "F2": "vsco2-ce/vsco_marimba/vsco_marimba_F2.wav",
+    "C3": "vsco2-ce/vsco_marimba/vsco_marimba_C3.wav",
+    "G3": "vsco2-ce/vsco_marimba/vsco_marimba_G3.wav",
+    "B3": "vsco2-ce/vsco_marimba/vsco_marimba_B3.wav",
+    "F4": "vsco2-ce/vsco_marimba/vsco_marimba_F4.wav",
+    "C5": "vsco2-ce/vsco_marimba/vsco_marimba_C5.wav",
+    "G5": "vsco2-ce/vsco_marimba/vsco_marimba_G5.wav",
+    "B5": "vsco2-ce/vsco_marimba/vsco_marimba_B5.wav",
+    "F6": "vsco2-ce/vsco_marimba/vsco_marimba_F6.wav",
+    "C7": "vsco2-ce/vsco_marimba/vsco_marimba_C7.wav"
+  }
+}
