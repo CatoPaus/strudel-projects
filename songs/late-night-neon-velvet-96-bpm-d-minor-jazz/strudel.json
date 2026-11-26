@@ -1,0 +1,126 @@
+{
+  "_base": "github:CatoPaus/strudel-projects/main/samples/",
+  "mrt2_clean_guitar": {
+    "E2": "mrt2-studio/mrt2_clean_guitar/E2.wav",
+    "B2": "mrt2-studio/mrt2_clean_guitar/B2.wav",
+    "E3": "mrt2-studio/mrt2_clean_guitar/E3.wav",
+    "B3": "mrt2-studio/mrt2_clean_guitar/B3.wav",
+    "E4": "mrt2-studio/mrt2_clean_guitar/E4.wav"
+  },
+  "mrt2_fretless_bass": {
+    "E1": "mrt2-studio/mrt2_fretless_bass/E1.wav",
+    "B1": "mrt2-studio/mrt2_fretless_bass/B1.wav",
+    "E2": "mrt2-studio/mrt2_fretless_bass/E2.wav",
+    "B2": "mrt2-studio/mrt2_fretless_bass/B2.wav",
+    "E3": "mrt2-studio/mrt2_fretless_bass/E3.wav"
+  },
+  "mrt2_rhodes_ep": {
+    "C2": "mrt2-studio/mrt2_rhodes_ep/C2.wav",
+    "G2": "mrt2-studio/mrt2_rhodes_ep/G2.wav",
+    "C3": "mrt2-studio/mrt2_rhodes_ep/C3.wav",
+    "G3": "mrt2-studio/mrt2_rhodes_ep/G3.wav",
+    "C4": "mrt2-studio/mrt2_rhodes_ep/C4.wav",
+    "G4": "mrt2-studio/mrt2_rhodes_ep/G4.wav"
+  },
+  "mrt2_solina_strings": {
+    "C3": "mrt2-studio/mrt2_solina_strings/C3.wav",
+    "G3": "mrt2-studio/mrt2_solina_strings/G3.wav",
+    "C4": "mrt2-studio/mrt2_solina_strings/C4.wav",
+    "G4": "mrt2-studio/mrt2_solina_strings/G4.wav",
+    "C5": "mrt2-studio/mrt2_solina_strings/C5.wav"
+  },
+  "mrt2_tenor_sax": {
+    "C3": "mrt2-studio/mrt2_tenor_sax/C3.wav",
+    "G3": "mrt2-studio/mrt2_tenor_sax/G3.wav",
+    "C4": "mrt2-studio/mrt2_tenor_sax/C4.wav",
+    "G4": "mrt2-studio/mrt2_tenor_sax/G4.wav"
+  },
+  "sal_bd": [
+    "salamander-drumkit/sal_bd/kick1_hard_ff.wav",
+    "salamander-drumkit/sal_bd/kick1_medium_f.wav",
+    "salamander-drumkit/sal_bd/kick1_soft_p.wav",
+    "salamander-drumkit/sal_bd/kick2_tight_hard_ff.wav",
+    "salamander-drumkit/sal_bd/kick2_tight_medium_f.wav",
+    "salamander-drumkit/sal_bd/kick2_tight_soft_p.wav"
+  ],
+  "sal_cr": [
+    "salamander-drumkit/sal_cr/crash1_medium_18_ff.wav",
+    "salamander-drumkit/sal_cr/crash1_medium_18_p.wav",
+    "salamander-drumkit/sal_cr/crash1_choked_f.wav",
+    "salamander-drumkit/sal_cr/crash2_thin_20_ff.wav",
+    "salamander-drumkit/sal_cr/crash2_thin_20_p.wav",
+    "salamander-drumkit/sal_cr/crash3_stagg_16_ff.wav",
+    "salamander-drumkit/sal_cr/splash_8in_bright_f.wav",
+    "salamander-drumkit/sal_cr/china1_20in_trashy_ff.wav",
+    "salamander-drumkit/sal_cr/china2_18in_sharp_ff.wav"
+  ],
+  "sal_hh": [
+    "salamander-drumkit/sal_hh/hihat_closed_tight_f1.wav",
+    "salamander-drumkit/sal_hh/hihat_closed_tight_f2.wav",
+    "salamander-drumkit/sal_hh/hihat_closed_crisp_f3.wav",
+    "salamander-drumkit/sal_hh/hihat_closed_soft_p1.wav",
+    "salamander-drumkit/sal_hh/hihat_closed_soft_p2.wav",
+    "salamander-drumkit/sal_hh/hihat_bark_tight_f.wav"
+  ],
+  "sal_ht": [
+    "salamander-drumkit/sal_ht/hitom_hard_ff1.wav",
+    "salamander-drumkit/sal_ht/hitom_medium_f.wav",
+    "salamander-drumkit/sal_ht/hitom_soft_p.wav",
+    "salamander-drumkit/sal_ht/hitom_hard_ff2.wav"
+  ],
+  "sal_lt": [
+    "salamander-drumkit/sal_lt/lotom_hard_ff1.wav",
+    "salamander-drumkit/sal_lt/lotom_medium_mp.wav",
+    "salamander-drumkit/sal_lt/lotom_soft_pp.wav",
+    "salamander-drumkit/sal_lt/lotom_hard_ff2.wav"
+  ],
+  "sal_oh": [
+    "salamander-drumkit/sal_oh/hihat_semiopen_sizzle_f.wav",
+    "salamander-drumkit/sal_oh/hihat_halfopen_wash_f.wav",
+    "salamander-drumkit/sal_oh/hihat_loose_open_f.wav",
+    "salamander-drumkit/sal_oh/hihat_open_soft_p.wav",
+    "salamander-drumkit/sal_oh/hihat_open_bright_f.wav",
+    "salamander-drumkit/sal_oh/hihat_open_loud_ff.wav"
+  ],
+  "sal_pedal": [
+    "salamander-drumkit/sal_pedal/hihat_pedal_chick_1.wav",
+    "salamander-drumkit/sal_pedal/hihat_pedal_chick_2.wav",
+    "salamander-drumkit/sal_pedal/hihat_pedal_stomp_1.wav",
+    "salamander-drumkit/sal_pedal/hihat_pedal_stomp_2.wav"
+  ],
+  "sal_rd": [
+    "salamander-drumkit/sal_rd/ride1_bow_medium_mp.wav",
+    "salamander-drumkit/sal_rd/ride1_bow_hard_ff.wav",
+    "salamander-drumkit/sal_rd/ride1_bell_ping_f.wav",
+    "salamander-drumkit/sal_rd/ride2_bow_soft_pp.wav",
+    "salamander-drumkit/sal_rd/ride2_bow_medium_mp.wav",
+    "salamander-drumkit/sal_rd/ride2_bow_hard_ff.wav",
+    "salamander-drumkit/sal_rd/ride2_bell_ping_f.wav",
+    "salamander-drumkit/sal_rd/ride2_edge_crash_ff.wav"
+  ],
+  "sal_rim": [
+    "salamander-drumkit/sal_rim/sidestick_crisp_1.wav",
+    "salamander-drumkit/sal_rim/sidestick_crisp_2.wav",
+    "salamander-drumkit/sal_rim/sidestick_woody_3.wav",
+    "salamander-drumkit/sal_rim/snare_wires_off_soft.wav",
+    "salamander-drumkit/sal_rim/snare2_wires_off_f.wav"
+  ],
+  "sal_sd": [
+    "salamander-drumkit/sal_sd/snare1_crack_ff.wav",
+    "salamander-drumkit/sal_sd/snare1_backbeat_f.wav",
+    "salamander-drumkit/sal_sd/snare1_medium_mp.wav",
+    "salamander-drumkit/sal_sd/snare1_ghost_soft_1.wav",
+    "salamander-drumkit/sal_sd/snare1_ghost_soft_2.wav",
+    "salamander-drumkit/sal_sd/snare2_dry_crack_ff.wav",
+    "salamander-drumkit/sal_sd/snare2_dry_backbeat_f.wav",
+    "salamander-drumkit/sal_sd/snare2_dry_medium_mp.wav",
+    "salamander-drumkit/sal_sd/snare2_dry_ghost.wav",
+    "salamander-drumkit/sal_sd/snare_wires_off_f.wav"
+  ],
+  "vsco_tamb": [
+    "vsco2-ce/vsco_tamb/tamb_hit_loud.wav",
+    "vsco2-ce/vsco_tamb/tamb_hit_soft.wav",
+    "vsco2-ce/vsco_tamb/tamb_shake.wav",
+    "vsco2-ce/vsco_tamb/tamb_roll.wav"
+  ]
+}
