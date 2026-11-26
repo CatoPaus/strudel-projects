@@ -1,0 +1,65 @@
+{
+  "_base": "github:CatoPaus/strudel-projects/main/samples/",
+  "mrt2_crash_white": {
+    "C2": "mrt2-studio/mrt2_crash_white/C2.wav",
+    "G2": "mrt2-studio/mrt2_crash_white/G2.wav",
+    "C3": "mrt2-studio/mrt2_crash_white/C3.wav",
+    "G3": "mrt2-studio/mrt2_crash_white/G3.wav",
+    "C4": "mrt2-studio/mrt2_crash_white/C4.wav"
+  },
+  "mrt2_digital": {
+    "C3": "mrt2-studio/mrt2_digital/C3.wav",
+    "G3": "mrt2-studio/mrt2_digital/G3.wav",
+    "C4": "mrt2-studio/mrt2_digital/C4.wav",
+    "G4": "mrt2-studio/mrt2_digital/G4.wav",
+    "C5": "mrt2-studio/mrt2_digital/C5.wav"
+  },
+  "mrt2_emulator_choir": {
+    "C3": "mrt2-studio/mrt2_emulator_choir/C3.wav",
+    "G3": "mrt2-studio/mrt2_emulator_choir/G3.wav",
+    "C4": "mrt2-studio/mrt2_emulator_choir/C4.wav",
+    "G4": "mrt2-studio/mrt2_emulator_choir/G4.wav",
+    "C5": "mrt2-studio/mrt2_emulator_choir/C5.wav"
+  },
+  "mrt2_riser_sine": {
+    "C2": "mrt2-studio/mrt2_riser_sine/C2.wav",
+    "G2": "mrt2-studio/mrt2_riser_sine/G2.wav",
+    "C3": "mrt2-studio/mrt2_riser_sine/C3.wav",
+    "G3": "mrt2-studio/mrt2_riser_sine/G3.wav",
+    "C4": "mrt2-studio/mrt2_riser_sine/C4.wav"
+  },
+  "mrt2_solina_strings": {
+    "C3": "mrt2-studio/mrt2_solina_strings/C3.wav",
+    "G3": "mrt2-studio/mrt2_solina_strings/G3.wav",
+    "C4": "mrt2-studio/mrt2_solina_strings/C4.wav",
+    "G4": "mrt2-studio/mrt2_solina_strings/G4.wav",
+    "C5": "mrt2-studio/mrt2_solina_strings/C5.wav"
+  },
+  "se1_22": {
+    "C1": "waivops-se1/syn_se1_preset_22_01_C1.wav",
+    "Cs1": "waivops-se1/syn_se1_preset_22_02_C%231.wav",
+    "D1": "waivops-se1/syn_se1_preset_22_03_D1.wav",
+    "Ds1": "waivops-se1/syn_se1_preset_22_04_D%231.wav",
+    "E1": "waivops-se1/syn_se1_preset_22_05_E1.wav",
+    "F1": "waivops-se1/syn_se1_preset_22_06_F1.wav",
+    "Fs1": "waivops-se1/syn_se1_preset_22_07_F%231.wav",
+    "G1": "waivops-se1/syn_se1_preset_22_08_G1.wav",
+    "Gs1": "waivops-se1/syn_se1_preset_22_09_G%231.wav",
+    "A1": "waivops-se1/syn_se1_preset_22_10_A1.wav",
+    "As1": "waivops-se1/syn_se1_preset_22_11_A%231.wav",
+    "B1": "waivops-se1/syn_se1_preset_22_12_B1.wav",
+    "C2": "waivops-se1/syn_se1_preset_22_13_C2.wav",
+    "Cs2": "waivops-se1/syn_se1_preset_22_14_C%232.wav",
+    "D2": "waivops-se1/syn_se1_preset_22_15_D2.wav",
+    "Ds2": "waivops-se1/syn_se1_preset_22_16_D%232.wav",
+    "E2": "waivops-se1/syn_se1_preset_22_17_E2.wav",
+    "F2": "waivops-se1/syn_se1_preset_22_18_F2.wav",
+    "Fs2": "waivops-se1/syn_se1_preset_22_19_F%232.wav",
+    "G2": "waivops-se1/syn_se1_preset_22_20_G2.wav",
+    "Gs2": "waivops-se1/syn_se1_preset_22_21_G%232.wav",
+    "A2": "waivops-se1/syn_se1_preset_22_22_A2.wav",
+    "As2": "waivops-se1/syn_se1_preset_22_23_A%232.wav",
+    "B2": "waivops-se1/syn_se1_preset_22_24_B2.wav",
+    "C3": "waivops-se1/syn_se1_preset_22_25_C3.wav"
+  }
+}
